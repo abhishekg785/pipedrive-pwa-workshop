@@ -1,7 +1,7 @@
 ## PWA Workshop and stuff
 
 PWA is a big topic to cover. There is no one way or technique to implement PWAs.
-PWAs are awesome, they make our websites work offline and run fast on slow networks, which is a good user experience.
+PWAs are awesome, they make our websites work offline, behave/feel like native apps, run fast on slow networks, and can be installed as desktop or mobile apps, which is a good user experience.
 
 Here are the links to the resources for the topics we discussed or could not :p, check them out :
 
