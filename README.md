@@ -169,6 +169,17 @@ Use http2 and try to experiment with server push to load your required assets fo
 
 Learn and experiment!
 
+
+## Some cool new apis and features on web that I discussed:
+Native file api:https://web.dev/native-file-system/
+
+Read/Write to user's file on his/her device directly, how cool is that! no more file uploads.
+
+USB: https://developer.mozilla.org/en-US/docs/Web/API/USB
+
+finding and connecting USB devices from a web page.
+
+
 ### I will stop now !
 
 Feel free to add/contribute something if you want!
