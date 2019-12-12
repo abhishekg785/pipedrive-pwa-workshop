@@ -135,6 +135,19 @@ In case it is not: https://chrome.google.com/webstore/detail/lighthouse/blipmdco
 
 and what does it do ? https://developers.google.com/web/tools/lighthouse
 
+## Other links:
+Render-tree Construction, Layout, and Paint:
+https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction
+
+Render Blocking CSS
+https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-blocking-css
+
+Adding Interactivity with JavaScript
+https://developers.google.com/web/fundamentals/performance/critical-rendering-path/adding-interactivity-with-javascript
+
+Preload, Prefetch And Priorities in Chrome
+https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf
+
 <br/>
 There is soooooooooooooooo much more to the story for PWA, as again there is no one correct way to implement it, all I will say in the end is:
 
