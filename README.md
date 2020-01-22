@@ -11,7 +11,7 @@ Here are the links to the resources for the topics we discussed or could not :p,
 
 ## All the code is vanilla JS, no frameworks were used. Just basic service worker stuff to see how they work.
 
-catsPWA: https://github.com/abhishekg785/cats-pwa, how to run is given in the readme
+dogsInsta: https://github.com/abhishekg785/pwa-workshop, how to run is given in the readme
 What does it have ?
 ```
     Progressive web app
